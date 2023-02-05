@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+  <script>
+    
+
+const stack = [14, 58, 20, 77, 66, 2, 42, 67, 42, 4]
+const min = Math.min(...stack)
+console.log(min)
+</script>
+    
+  </script>
+    </body>
+    
+</html>
